@@ -1,0 +1,136 @@
+.lightblue-flat { background-color: #01D8FD }
+.lightblue-flat .secondary-bg { background-color: #2898FB }
+.lightblue-flat .accent-bg { background-color: #297AFB }
+.lightblue-flat .primary-color { color: #FFFFFF }
+.lightblue-flat .secondary-color { color: #D7F9FF }
+.lightblue-flat .svg-fill { fill: #FFFFFF }
+
+.lightblue-gradient { background: linear-gradient(#2898FB, #01D8FD) }
+.lightblue-gradient .secondary-bg { background-color: #2898FB }
+.lightblue-gradient .accent-bg { background-color: #297AFB }
+.lightblue-gradient .primary-color { color: #FFFFFF }
+.lightblue-gradient .secondary-color { color: #D7F9FF }
+.lightblue-gradient .svg-fill { fill: #FFFFFF }
+
+.lightblue-accent { background-color: #297AFB }
+.lightblue-accent .secondary-bg { background-color: #2898FB }
+.lightblue-accent .accent-bg { background-color: #01D8FD }
+.lightblue-accent .primary-color { color: #FFFFFF }
+.lightblue-accent .secondary-color { color: #D3E4FE }
+.lightblue-accent .svg-fill { fill: #FFFFFF }
+
+.lightblue-black { background-color: #2898FB }
+.lightblue-black .secondary-bg { background-color: #01D8FD }
+.lightblue-black .accent-bg { background-color: #297AFB }
+.lightblue-black .primary-color { color: #FFFFFF }
+.lightblue-black .secondary-color { color: #DBEEFE }
+.lightblue-black .svg-fill { fill: #FFFFFF }
+
+.lightblue-white { background-color: #FFFFFF }
+.lightblue-white .secondary-bg { background-color: #D7F9FF }
+.lightblue-white .accent-bg { background-color: #297AFB }
+.lightblue-white .primary-color { color: #000000 }
+.lightblue-white .secondary-color { color: #8F8F8F }
+.lightblue-white .svg-fill { fill: #01D8FD }
+.gray-flat { background-color: #C4C8D4 }
+.gray-flat .secondary-bg { background-color: #E7E8E9 }
+.gray-flat .accent-bg { background-color: #443B55 }
+.gray-flat .primary-color { color: #000000 }
+.gray-flat .secondary-color { color: #72747B }
+.gray-flat .svg-fill { fill: #FFFFFF }
+
+.gray-gradient { background: linear-gradient(#E7E8E9, #C4C8D4) }
+.gray-gradient .secondary-bg { background-color: #E7E8E9 }
+.gray-gradient .accent-bg { background-color: #443B55 }
+.gray-gradient .primary-color { color: #000000 }
+.gray-gradient .secondary-color { color: #72747B }
+.gray-gradient .svg-fill { fill: #FFFFFF }
+
+.gray-accent { background-color: #443B55 }
+.gray-accent .secondary-bg { background-color: #b6bac7 }
+.gray-accent .accent-bg { background-color: #C4C8D4 }
+.gray-accent .primary-color { color: #FFFFFF }
+.gray-accent .secondary-color { color: #E8E7EA }
+.gray-accent .svg-fill { fill: #FFFFFF }
+
+.gray-black { background-color: #E7E8E9 }
+.gray-black .secondary-bg { background-color: #C4C8D4 }
+.gray-black .accent-bg { background-color: #443B55 }
+.gray-black .primary-color { color: #000000 }
+.gray-black .secondary-color { color: #5b5d5d }
+.gray-black .svg-fill { fill: #5b5d5d }
+
+.gray-white { background-color: #ffffff }
+.gray-white .secondary-bg { background-color: #F8F9FA }
+.gray-white .accent-bg { background-color: #443B55 }
+.gray-white .primary-color { color: #000000 }
+.gray-white .secondary-color { color: #8F8F8F }
+.gray-white .svg-fill { fill: #b6bac7 }
+.blue-flat { background-color: #0065FF }
+.blue-flat .secondary-bg { background-color: #041029 }
+.blue-flat .accent-bg { background-color: #00CC47 }
+.blue-flat .primary-color { color: #FFFFFF }
+.blue-flat .secondary-color { color: #D8E8FF }
+.blue-flat .svg-fill { fill: #FFFFFF }
+
+.blue-gradient { background: linear-gradient(#00C3FF, #0065FF) }
+.blue-gradient .secondary-bg { background-color: #041029 }
+.blue-gradient .accent-bg { background-color: #00CC47 }
+.blue-gradient .primary-color { color: #FFFFFF }
+.blue-gradient .secondary-color { color: #D8E8FF }
+.blue-gradient .svg-fill { fill: #FFFFFF }
+
+.blue-accent { background-color: #00CC47 }
+.blue-accent .secondary-bg { background-color: #041029 }
+.blue-accent .accent-bg { background-color: #0065FF }
+.blue-accent .primary-color { color: #FFFFFF }
+.blue-accent .secondary-color { color: #DCF8E6 }
+.blue-accent .svg-fill { fill: #FFFFFF }
+
+.blue-black { background-color: #041029 }
+.blue-black .secondary-bg { background-color: #0065FF }
+.blue-black .accent-bg { background-color: #00CC47 }
+.blue-black .primary-color { color: #FFFFFF }
+.blue-black .secondary-color { color: #DADBDF }
+.blue-black .svg-fill { fill: #FFFFFF }
+
+.blue-white { background-color: #FFFFFF }
+.blue-white .secondary-bg { background-color: #D8E8FF }
+.blue-white .accent-bg { background-color: #00CC47 }
+.blue-white .primary-color { color: #000000 }
+.blue-white .secondary-color { color: #8F8F8F }
+.blue-white .svg-fill { fill: #0065FF }
+.pink-flat { background-color: #E5548B }
+.pink-flat .secondary-bg { background-color: #994E83 }
+.pink-flat .accent-bg { background-color: #5C5FBE }
+.pink-flat .primary-color { color: #FFFFFF }
+.pink-flat .secondary-color { color: #FBE6EE }
+.pink-flat .svg-fill { fill: #FFFFFF }
+
+.pink-gradient { background: linear-gradient(#FE7A6D, #E5548B) }
+.pink-gradient .secondary-bg { background-color: #994E83 }
+.pink-gradient .accent-bg { background-color: #5C5FBE }
+.pink-gradient .primary-color { color: #FFFFFF }
+.pink-gradient .secondary-color { color: #FBE6EE }
+.pink-gradient .svg-fill { fill: #FFFFFF }
+
+.pink-accent { background-color: #5C5FBE }
+.pink-accent .secondary-bg { background-color: #994E83 }
+.pink-accent .accent-bg { background-color: #E5548B }
+.pink-accent .primary-color { color: #FFFFFF }
+.pink-accent .secondary-color { color: #E7E8F6 }
+.pink-accent .svg-fill { fill: #FFFFFF }
+
+.pink-black { background-color: #994E83 }
+.pink-black .secondary-bg { background-color: #E5548B }
+.pink-black .accent-bg { background-color: #5C5FBE }
+.pink-black .primary-color { color: #FFFFFF }
+.pink-black .secondary-color { color: #EEE2EA }
+.pink-black .svg-fill { fill: #FFFFFF }
+
+.pink-white { background-color: #FFFFFF }
+.pink-white .secondary-bg { background-color: #FBE6EE }
+.pink-white .accent-bg { background-color: #5C5FBE }
+.pink-white .primary-color { color: #000000 }
+.pink-white .secondary-color { color: #8F8F8F }
+.pink-white .svg-fill { fill: #E5548B }
